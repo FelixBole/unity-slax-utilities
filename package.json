@@ -1,0 +1,35 @@
+{
+	"name": "com.slax.utilities",
+	"version": "1.0.0",
+	"displayName": "Slax's Utilities",
+	"description": "Utility classes and tools from Slax",
+	"unity": "2021.3",
+	"keywords": [
+		"Utility",
+		"Tools",
+		"Slax"
+	],
+	"author": {
+		"url": "https://github.com/FelixBole",
+		"name": "Felix Bole",
+		"email": "felix.slax@gmail.com"
+	},
+	"dependencies": {},
+	"files": [
+		"Documentation/**",
+		"Documentation.meta",
+		"Editor/**",
+		"Editor.meta",
+		"Runtime/**",
+		"Runtime.meta",
+		"Samples/**",
+		"Samples.meta",
+		"CHANGELOG.md",
+		"CHANGELOG.meta",
+		"LICENSE.md",
+		"LICENSE.meta",
+		"README.md",
+		"README.meta",
+		"package.json.meta"
+	]
+}
